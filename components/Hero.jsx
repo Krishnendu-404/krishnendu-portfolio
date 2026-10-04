@@ -58,7 +58,6 @@ export default function Hero() {
                         SYSTEM ONLINE
 
                         <span className="badge-divider">
-                            //
                         </span>
 
                         PORTFOLIO 001
@@ -97,7 +96,7 @@ export default function Hero() {
                     </h2>
 
                     <p className="hero-description">
-                        I'm a passionate{" "}
+                        I am a passionate{" "}
                         <strong>Developer</strong>{" "}
                         focused on building practical,
                         efficient and high-quality digital
@@ -216,8 +215,8 @@ export default function Hero() {
                             <div className="hero-image">
 
                                 <img
-                                    src="/profile.jpg"
-                                    alt="Portrait of KRISHNENDU KHASKAL"
+                                    src= "/profile.png"
+                                    alt= "Portrait of KRISHNENDU KHASKAL"
                                 />
 
                             </div>
