@@ -215,7 +215,7 @@ export default function Hero() {
                             <div className="hero-image">
 
                                 <img
-                                    src= "/profile.png"
+                                    src= "/profile.webp"
                                     alt= "Portrait of KRISHNENDU KHASKAL"
                                 />
 
